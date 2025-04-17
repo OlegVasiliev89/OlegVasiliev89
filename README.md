@@ -1,7 +1,7 @@
 ## Hi there 👋
 -I’m currently working on a Vue.js portfolio website and multiple beginner-friendly full-stack projects like a climbing weather app and a weather API accuracy tracker using Flask and Supabase.
 
-🌱 I’m currently learning advanced JavaScript concepts, tree traversal, recursion, and improving my understanding of algorithms and data structures.
+🌱 I’m currently learning advanced JavaScript concepts, and improving my understanding of algorithms and data structures.
 
 👯 I’m looking to collaborate on beginner-to-intermediate web projects, especially anything involving Vue.js, Flask, or APIs — and I’d love to pair program or debug together!
 <!--
