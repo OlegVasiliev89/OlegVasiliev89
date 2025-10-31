@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently working on a Vue.js portfolio website and multiple beginner-friendly full-stack projects like a climbing weather app and a weather API accuracy tracker using Flask and Supabase.
+I’m currently working on a React webapp and multiple beginner-friendly full-stack projects like a [climbing weather app](https://github.com/OlegVasiliev89/Climbing-Weather) and a weather API accuracy tracker using Flask and Supabase.
 
 🌱 I’m currently learning advanced JavaScript concepts, and improving my understanding of algorithms and data structures.
 
