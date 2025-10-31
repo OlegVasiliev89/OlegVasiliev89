@@ -1,5 +1,5 @@
 ## Hi there 👋
-I’m currently working on a React webapp and multiple full-stack projects like a [climbing weather app](https://github.com/OlegVasiliev89/Climbing-Weather) and a [weather API accuracy tracker](https://github.com/OlegVasiliev89/Weather-API-accuracy) using Flask and Supabase.
+I’m currently working on a React webapp to compare pricing in grocery stores in Canada, and multiple full-stack projects like a [climbing weather app](https://github.com/OlegVasiliev89/Climbing-Weather) and a [weather API accuracy tracker](https://github.com/OlegVasiliev89/Weather-API-accuracy) using Flask and Supabase.
 
 Try my Outdoor climbing WebApp [here](http://climbing-weather.oleg-vasiliev.com/) to find the best crag this weekend.
 Try the Weather APIs Tracker WebApp [here](http://weather-api-accuracy.oleg-vasiliev.com/), to determine the best weather API for your next project.
